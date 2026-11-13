@@ -1,6 +1,9 @@
 # Puffin-dots
-My linux rice
+<div align="center">
 
+<h1>My linux rice</h1>
+
+</div>
 
 <div align="center">
 
