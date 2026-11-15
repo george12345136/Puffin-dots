@@ -1,7 +1,7 @@
 # Puffin-dots
 <div align="center">
 
-<h1>My linux rice</h1>
+<h1>Puffin dots</h1>
 
 </div>
 
@@ -13,6 +13,8 @@
 [![Tag Version](https://img.shields.io/github/v/tag/george12345136/Puffin-dots?style=flat-square&logo=github&cacheSeconds=0)](https://github.com/george12345136/Puffin-dots/tags)
 </div>
 
-Warning:
+Future updates:
 
-updates may be slow, mostly i am focusing in bug fixes
+1. Replace anything with EWW [most likely]
+2. Add awesomeWM support [most likely]
+3.  Add Fedora, Ubuntu, Debian support _**maybe**_
