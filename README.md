@@ -1,7 +1,7 @@
 # Puffin-dots
 <div align="center">
 
-<h1>Puffin dots</h1>
+<h1>Puffin dots</h1> BETA / WIP RELEASE
 
 </div>
 
@@ -18,3 +18,4 @@ Future updates:
 1. Replace anything with EWW [most likely]
 2. Add awesomeWM support [most likely]
 3.  Add Fedora, Ubuntu, Debian support _**maybe**_
+
